@@ -8,7 +8,7 @@ import com.alibaba.android.arouter.facade.annotation.Route;
 import com.thughan.designmode.observer.ObserverClient;
 
 
-@Route(path = Constants.DESIGN.ACTIVITY_PATH)
+@Route(path = DesignConstants.ACTIVITY_PATH)
 public class DesignActivity extends AppCompatActivity {
 
     @Override
